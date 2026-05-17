@@ -6,9 +6,7 @@ Designed to demonstrate production-grade iOS engineering practices focused on sc
 
 This project showcases how to build scalable and maintainable iOS applications using modular architecture principles.
 
-## Folder Structure
-
-![Architecture Structure](Resources/Screenshots/architecture-structure.png)
+![Architecture Structure](https://raw.githubusercontent.com/sazidIqabal/ios-modular-clean-architecture/main/ModularCleanArchitecture/ModularCleanArchitecture/Resources/Screenshots/architecture-structure.png)
 
 ---
 
