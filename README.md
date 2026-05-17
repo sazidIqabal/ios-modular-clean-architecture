@@ -6,6 +6,10 @@ Designed to demonstrate production-grade iOS engineering practices focused on sc
 
 This project showcases how to build scalable and maintainable iOS applications using modular architecture principles.
 
+## Folder Structure
+
+![Architecture Structure](Resources/Screenshots/architecture-structure.png)
+
 ---
 
 # Architecture Overview
@@ -44,7 +48,3 @@ App
 │   └── RepositoryProtocols
 │
 └── Resources
-
-## Folder Structure
-
-![Architecture Structure](Resources/Screenshots/architecture-structure.png)
