@@ -44,3 +44,7 @@ App
 │   └── RepositoryProtocols
 │
 └── Resources
+
+## Folder Structure
+
+![Architecture Structure](Resources/Screenshots/architecture-structure.png)
